@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TestAssignmentPeopleData</string>
+    <string name="age">Age: %1$s</string>
+    <string name="birthday">Birthday: %1$s</string>
+    <string name="Address">%1$s, %2$s Street, %3$s, %4$s, %5$s</string>
+    <string name="Phone">Phone: %1$s</string>
+    <string name="Cell">Cellphone: %1$s</string>
+    <string name="Email">E-mail: %1$s</string>
 </resources>
